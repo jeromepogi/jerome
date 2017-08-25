@@ -1,5 +1,4 @@
-# <!doctype html>
-<head>
+<html lang="en"><head>
 
 
 
@@ -36,17 +35,36 @@ p1.indent {padding -left: 5.9em}
     <title>Document</title>
 </head>
 <body>
-    <p1>
+    <p1>  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
+          &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;  
                      <i>  Faculty of Medicine and Science </i> <br>
+
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 		    <i> Technological Institute of Cainta  </i> <br> 
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 	          <i>   Cainta, Rizal Phillipines 1902  </i>  <br> </p1>
 
-	  <p>
+	  <p>  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; 
                       <i>  December 13,2017 </i> </p> 
 
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 		      <i> Tel no. 549-689 </i> 
-          <p>
+          <p> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 			<b> <i> Email Address: </i> </b>  TIC.askcareer@outlook.com</p> 
 
 
@@ -140,8 +158,4 @@ San Isidro Taytay Rizal <br> <br>
 <p> <b> <font size="2">  Technological Institute of Cainta  <font> </font></font></b><font size="2"><font> <i>"Be Excellent in every field" </i> </font></font></p><font size="2"><font>
 
 
-</font>
-</font>
-</li>
-</body>
-</html>
+</font></font></li></body></html>
