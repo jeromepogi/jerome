@@ -1,10 +1,10 @@
 <html lang="en"><head>
 
 
-	<style>
+<style>
 
 
-<hr> { 
+hr { 
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
