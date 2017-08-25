@@ -1,9 +1,9 @@
 <html lang="en">
 <body>
     <p1> 
-	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
+    <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
         
-          <i>  Faculty of Medicine and Science </i> <br>
+<p> <i>  Faculty of Medicine and Science </i> <br> <p>
 
 	
  <i> Technological Institute of Cainta  </i> <br> 
