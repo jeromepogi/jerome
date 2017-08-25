@@ -1,7 +1,7 @@
 <html lang="en"><head>
 
 
-<style>
+	<style>
 
 
 hr { 
@@ -26,7 +26,7 @@ font-size 100px;
 p1.indent {padding -left: 5.9em} 
 
 
-</style>
+	</style>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
