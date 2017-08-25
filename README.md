@@ -1,37 +1,16 @@
 <html lang="en">
 <body>
-    <p1>  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;
+    <p1> 
 	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
-          &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;  
-                     <i>  Faculty of Medicine and Science </i> <br>
+        
+          <i>  Faculty of Medicine and Science </i> <br>
 
-	  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;
-		    <i> Technological Institute of Cainta  </i> <br> 
-	  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;
-	          <i>   Cainta, Rizal Phillipines 1902  </i>  <br> </p1>
-
-	  <p>  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; 
-                      <i>  December 13,2017 </i> </p> 
-
-	  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;
-		      <i> Tel no. 549-689 </i> 
-          <p> &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &emsp; &emsp;
-			<b> <i> Email Address: </i> </b>  TIC.askcareer@outlook.com</p> 
-
+	
+ <i> Technological Institute of Cainta  </i> <br> 
+	<i>   Cainta, Rizal Phillipines 1902  </i>  <br> </p1>
+		  <p>   <i>  December 13,2017 </i> </p> 
+  <i> Tel no. 549-689 </i> 
+   <p>	<b> <i> Email Address: </i> </b>  TIC.askcareer@outlook.com</p> 
 
 
 
