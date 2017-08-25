@@ -1,8 +1,8 @@
 <html lang="en">
 <body>
-    <p1>  &ensp; &ensp; &ensp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-          &emsp; &emsp;
+    <p1>  &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+          &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+          &ensp; &ensp;
 	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
           &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
           &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
