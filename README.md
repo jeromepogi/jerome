@@ -2,8 +2,7 @@
 <body>
     <p1> 
     <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
-   <p> <i>  Faculty of Medicine and Science </i> <br> <p>
-
+    <i>  Faculty of Medicine and Science </i> <br>
 	
  <i> Technological Institute of Cainta  </i> <br> 
 	<i>   Cainta, Rizal Phillipines 1902  </i>  <br> </p1>
