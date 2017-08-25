@@ -1,6 +1,6 @@
 <html lang="en">
 <body>
-    <p1>  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+    <p1>  &ensp; &ensp; &ensp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
           &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
           &emsp; &emsp;
 	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
