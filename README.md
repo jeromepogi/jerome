@@ -1,26 +1,70 @@
-<!doctype html>
 <html lang="en"><head>
+
+
+
+	<style>
+
+
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 5px;
+}
+
+p{
+  
+color: black;
+}
+
+
+p1{color; black;
+font-size 100px;
+
+p1.indent {padding -left: 5.9em} 
+
+
+</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
 <body>
-    <p1> 
+    <p1>  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 	        <b>  <i> Mr. Fernandez Amorsolo </i> </b> <br> 
+          &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;  
                      <i>  Faculty of Medicine and Science </i> <br>
 
-	
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 		    <i> Technological Institute of Cainta  </i> <br> 
-	
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 	          <i>   Cainta, Rizal Phillipines 1902  </i>  <br> </p1>
 
-	  <p>  
+	  <p>  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; 
                       <i>  December 13,2017 </i> </p> 
 
-	
+	  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 		      <i> Tel no. 549-689 </i> 
-          <p> 
+          <p> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+          &emsp; &emsp;
 			<b> <i> Email Address: </i> </b>  TIC.askcareer@outlook.com</p> 
 
 
