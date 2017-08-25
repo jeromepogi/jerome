@@ -29,7 +29,7 @@
 		      <i> Tel no. 549-689 </i> 
           <p> &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
           &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-          &ensp; &ensp;
+          &emsp; &emsp;
 			<b> <i> Email Address: </i> </b>  TIC.askcareer@outlook.com</p> 
 
 
